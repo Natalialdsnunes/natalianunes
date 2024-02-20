@@ -51,9 +51,7 @@ REFERÊNCIAS BIBLIOGRÁFICAS
 Links utilizados para a pesquisa:
 • https://bruno.dac.ufla.br/aulas/arquivos-e-diretorios.html
 • https://www.cin.ufpe.br/~luciano/cursos/ce/arquivos.pdf
-• https://www.people.com.br/noticias/informatica/o-que-sao-variaveis-e-para-queelas-servem-na
-programacao#:~:text=Uma%20vari%C3%A1vel%20%C3%A9%20um%20espa
-%C3%A7o,definidas%20por%20nomes%20e%20tipos.
+• https://www.people.com.br/noticias/informatica/o-que-sao-variaveis-e-para-queelas-servem-naprogramacao#:~:text=Uma%20vari%C3%A1vel%20%C3%A9%20um%20espa%C3%A7o,definidas%20por%20nomes%20e%20tipos.
 • https://ebaconline.com.br/blog/variaveis-na-programacao-seo
 • https://coodesh.com/blog/dicionario/o-que-e-um-servidor/
 • https://www.qnapbrasil.com.br/blog/post/o-que-e-servidor-armazenamento-dedadoshttps://www.controle.net/faq/o-que-sao servidores#:~:text=O%20termo%20servidor%20tamb%C3%A9m%20define,possuem%20alto%20poder%20de%20processamento.
