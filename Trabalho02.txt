@@ -33,13 +33,13 @@ B.2. Algumas implicações dos formatos de arquivos de dados proprietários para
 limitando a transparência e a acessibilidade. Já as implicações dos formatos de arquivos de dados abertos estão relacionadas justamente a facilitação ao acesso, a interoperabilidade e promovem a transparência 
 dos dados públicos, pois são amplamente acessíveis, interoperáveis e transparentes, permitindo um maior envolvimento e utilização pela sociedade. 
 
-2. https://github.com/Natalialdsnunes/natalianunes/new/main 
+2. https://github.com/Natalialdsnunes/natalianunes/tree/a08218350e0d335797c757a82c72476744191f59
 
 
 Referências Bibliográficas
 
 Links utilizados para a pesquisa:
 
-• https://thriveti.com.br/veja-a-relacao-entre-data-center-e-a-lei-geral-de-protecao-de-dados-lgpd/ 
-• https://campusvirtual.fiocruz.br/portal/guiarea/OpenFormats.html#:~:text=Os%20formatos%20propriet%C3%A1rios%20representam%20a,podem%20ser%20conhecidas%20por%20todos. 
-• https://ouvidoriageral.rs.gov.br/upload/arquivos/201707/10105453-manual-dados-tecnico.pdf 
+•https://thriveti.com.br/veja-a-relacao-entre-data-center-e-a-lei-geral-de-protecao-de-dados-lgpd/ 
+•https://campusvirtual.fiocruz.br/portal/guiarea/OpenFormats.html#:~:text=Os%20formatos%20propriet%C3%A1rios%20representam%20a,podem%20ser%20conhecidas%20por%20todos. 
+•https://ouvidoriageral.rs.gov.br/upload/arquivos/201707/10105453-manual-dados-tecnico.pdf 
