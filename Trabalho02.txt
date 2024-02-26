@@ -36,8 +36,10 @@ dos dados públicos, pois são amplamente acessíveis, interoperáveis e transpa
 2. https://github.com/Natalialdsnunes/natalianunes/new/main 
 
 
-Referências Bibliográficas: 
+Referências Bibliográficas
 
-https://thriveti.com.br/veja-a-relacao-entre-data-center-e-a-lei-geral-de-protecao-de-dados-lgpd/ 
-https://campusvirtual.fiocruz.br/portal/guiarea/OpenFormats.html#:~:text=Os%20formatos%20propriet%C3%A1rios%20representam%20a,podem%20ser%20conhecidas%20por%20todos. 
-https://ouvidoriageral.rs.gov.br/upload/arquivos/201707/10105453-manual-dados-tecnico.pdf 
+Links utilizados para a pesquisa:
+
+• https://thriveti.com.br/veja-a-relacao-entre-data-center-e-a-lei-geral-de-protecao-de-dados-lgpd/ 
+• https://campusvirtual.fiocruz.br/portal/guiarea/OpenFormats.html#:~:text=Os%20formatos%20propriet%C3%A1rios%20representam%20a,podem%20ser%20conhecidas%20por%20todos. 
+• https://ouvidoriageral.rs.gov.br/upload/arquivos/201707/10105453-manual-dados-tecnico.pdf 
