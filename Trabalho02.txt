@@ -32,7 +32,8 @@ Exemplos de formatos abertos:
 •	xmL. 
 
 B.2. Algumas implicações dos formatos de arquivos de dados proprietários para dados públicos são a dificultação do acesso e a interoperabilidade desses dados, 
-além de criar dependência de software específico, limitando a transparência e a acessibilidade. Já as implicações dos formatos de arquivos de dados abertos estão relacionadas justamente a facilitação ao acesso, a interoperabilidade e promovem a transparência 
+além de criar dependência de software específico, limitando a transparência e a acessibilidade. Já as implicações dos formatos de arquivos de dados abertos 
+estão relacionadas justamente a facilitação ao acesso, a interoperabilidade e promovem a transparência 
 dos dados públicos, pois são amplamente acessíveis, interoperáveis e transparentes, permitindo um maior envolvimento e utilização pela sociedade. 
 
 2. https://github.com/Natalialdsnunes/natalianunes/tree/a08218350e0d335797c757a82c72476744191f59
