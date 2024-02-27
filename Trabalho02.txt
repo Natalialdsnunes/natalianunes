@@ -5,16 +5,18 @@ Aluna: Natália Larica Dos Santos Nunes
 Professor: Eduardo Brito 
 
 
-1.	A. A relação entre a Lei Geral de Proteção de Dados (LGPD) e os Data Centers no Brasil é bastante significativa, já que a LGPD obriga as organizações a serem mais responsáveis com o gerenciamento 
-das informações armazenadas, e afinal, os Data Centers desempenham um papel fundamental no armazenamento e processamento dos dados dos usuários e, portanto, na conformidade com a LGPD, fornecendo a 
+1.	A. A relação entre a Lei Geral de Proteção de Dados (LGPD) e os Data Centers no Brasil é bastante significativa, 
+já que a LGPD obriga as organizações a serem mais responsáveis com o gerenciamento 
+das informações armazenadas, e afinal, os Data Centers desempenham um papel fundamental no armazenamento e processamento 
+dos dados dos usuários e, portanto, na conformidade com a LGPD, fornecendo a 
 infraestrutura necessária para armazenar e processar dados pessoais de forma segura e em conformidade com os requisitos da lei.  
 
 
-    B. O formato de arquivo é um modo específico de codificar a informação para o seu armazenamento e recuperação em um arquivo de computador. Os formatos portam padrões e são implementados por softwares, 
-podendo ser abertos ou fechados, livres ou proprietários.  
+    B. O formato de arquivo é um modo específico de codificar a informação para o seu armazenamento e recuperação em um arquivo de computador. 
+Os formatos portam padrões e são implementados por softwares, podendo ser abertos ou fechados, livres ou proprietários.  
 
-       Visto isso, os formatos proprietários representam a privatização da memória digital, enquanto os arquivos salvos em formatos abertos são arquivos que seguem padrões abertos, cujas especificações são 
-publicadas e podem ser conhecidas por todos.
+       Visto isso, os formatos proprietários representam a privatização da memória digital, enquanto os arquivos salvos em formatos abertos são 
+arquivos que seguem padrões abertos, cujas especificações são publicadas e podem ser conhecidas por todos.
 
 B.1. 
 Exemplos de formatos proprietários:
@@ -29,8 +31,8 @@ Exemplos de formatos abertos:
 •	JSoN; 
 •	xmL. 
 
-B.2. Algumas implicações dos formatos de arquivos de dados proprietários para dados públicos são a dificultação do acesso e a interoperabilidade desses dados, além de criar dependência de software específico, 
-limitando a transparência e a acessibilidade. Já as implicações dos formatos de arquivos de dados abertos estão relacionadas justamente a facilitação ao acesso, a interoperabilidade e promovem a transparência 
+B.2. Algumas implicações dos formatos de arquivos de dados proprietários para dados públicos são a dificultação do acesso e a interoperabilidade desses dados, 
+além de criar dependência de software específico, limitando a transparência e a acessibilidade. Já as implicações dos formatos de arquivos de dados abertos estão relacionadas justamente a facilitação ao acesso, a interoperabilidade e promovem a transparência 
 dos dados públicos, pois são amplamente acessíveis, interoperáveis e transparentes, permitindo um maior envolvimento e utilização pela sociedade. 
 
 2. https://github.com/Natalialdsnunes/natalianunes/tree/a08218350e0d335797c757a82c72476744191f59
