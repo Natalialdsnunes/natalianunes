@@ -9,15 +9,15 @@ TRABALHO 3
 
 1. Diferenças entre 3 linguagens de programaçãom
 
-     Uma das principais diferenças entre Javascript e Python é a sua sintaxe. O Javascript é uma linguagem de programação baseada em scripts, com uma sintaxe mais parecida com C. 
-Por outro lado, Python foi projetado para ser fácil de ler e escrever, com uma sintaxe mais clara e concisa, já a sintaxe da linguagem C é mais complexa e requer um maior domínio 
-dos conceitos de programação. 
-     Outra diferença está no uso das linguagens. Javascript é principalmente usado para programação do lado do cliente, ou seja, é executado no navegador do usuário. 
-Ele é amplamente utilizado para criar páginas web interativas e dinâmicas. Já Python é frequentemente usado para programação do lado do servidor, ou seja, é executado no servidor. 
-Ele é usado para desenvolver aplicativos web, fazer análise de dados, automação de tarefas, entre outros.
-     Além disso, as bibliotecas e frameworks disponíveis para cada linguagem também são diferentes. Javascript possui uma ampla gama de bibliotecas e frameworks como React, Angular e Vue.js, 
-que são amplamente utilizados para o desenvolvimento de interfaces de usuário sofisticadas. Por outro lado, Python possui bibliotecas poderosas como Pandas, Numpy e Django, que são amplamente 
-utilizadas para análise de dados, computação científica e desenvolvimento web. Já em C, você precisa fazer uso de bibliotecas externas para ter acesso a funcionalidades avançadas.
+     Uma das principais diferenças entre Javascript e Python é a sua sintaxe. O Javascript é uma linguagem de programação baseada em scripts, com uma sintaxe 
+mais parecida com C. 
+     Por outro lado, Python foi projetado para ser fácil de ler e escrever, com uma sintaxe mais clara e concisa, já a sintaxe da linguagem C é mais complexa 
+e requer um maior domínio dos conceitos de programação. 
+     Outra diferença está no uso das linguagens. Javascript é principalmente usado para programação do lado do cliente, ou seja, é executado no navegador do usuário. Ele é amplamente utilizado para criar páginas web interativas e dinâmicas. Já Python é frequentemente usado para programação do lado do servidor, 
+ou seja, é executado no servidor. Ele é usado para desenvolver aplicativos web, fazer análise de dados, automação de tarefas, entre outros.
+     Além disso, as bibliotecas e frameworks disponíveis para cada linguagem também são diferentes. Javascript possui uma ampla gama de bibliotecas e frameworks como React, Angular e Vue.js, que são amplamente utilizados para o desenvolvimento de interfaces de usuário sofisticadas. Por outro lado, Python possui 
+bibliotecas poderosas como Pandas, Numpy e Django, que são amplamente utilizadas para análise de dados, computação científica e desenvolvimento web. Já em C, 
+você precisa fazer uso de bibliotecas externas para ter acesso a funcionalidades avançadas.
 
 1.A. Anexo no SAVA | Ibmec; 
 1.B. Anexo no SAVA | Ibmec.
