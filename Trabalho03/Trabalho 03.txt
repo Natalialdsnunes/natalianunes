@@ -19,10 +19,10 @@ ou seja, é executado no servidor. Ele é usado para desenvolver aplicativos web
 bibliotecas poderosas como Pandas, Numpy e Django, que são amplamente utilizadas para análise de dados, computação científica e desenvolvimento web. Já em C, 
 você precisa fazer uso de bibliotecas externas para ter acesso a funcionalidades avançadas.
 
-1.A. Anexo no SAVA | Ibmec; 
-1.B. Anexo no SAVA | Ibmec.
+1.a. Arquivo anexado na pasta do GITHUB 
+1.b. Arquivo anexado na pasta do GITHUB 
 
-2. Anexo no SAVA | Ibmec.
+2. Arquivo anexado na pasta do GITHUB
 
 
 REFERÊNCIAS BIBLIOGRÁFICAS
